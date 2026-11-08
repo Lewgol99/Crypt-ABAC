@@ -13,10 +13,10 @@ The objectives of the Crypt-ABAC system are is implement ?? using py-abac and de
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Original PySyncObj:
+Original py-abac:
 
 ```python
- https://github.com/bakwc/PySyncObj
+ https://github.com/ketgo/py-abac.git
 ```
 
 SEED Internet Emulator:
