@@ -1,6 +1,6 @@
 ## Crypt-ABAC
 
-The objectives of the CryptObj protocol are to implement key wrapping by use of Asymmetric and Symmetric Cryptography into the Raft protocol using PySyncObj and deployed within SEED Internet Emulator to authenticate nodes and secure data in transit to be used for log replication in consensus deployed in distributed systems. This validates NIST security properties such as Authentication and Confidentiality for information security and can be used as a computer network protocol for security applications. The dependencies for the protocol can be viewed and installed in the requirements.txt. 
+The objectives of the Crypt-ABAC system are is implement ?? using py-abac and deployed within SEED Internet Emulator to ?? deployed in distributed systems. This validates NIST security properties such as ?? for information security and can be used as a secure engineering design for security applications. The dependencies for the protocol can be viewed and installed in the requirements.txt. 
 
 <table>
   <tr>
