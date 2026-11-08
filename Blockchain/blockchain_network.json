@@ -1,7 +1,0 @@
-{
-  "network": {
-    "chainId": 11155111,
-    "name": "sepolia",
-    "gas": 100000
-  }
-}
