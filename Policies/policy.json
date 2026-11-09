@@ -1,4 +1,4 @@
-policy_json = {
+{
     "uid": "1",
     "description": "Max and Nina are allowed to create, delete, get any "
                    "resources only if the client IP matches.",
