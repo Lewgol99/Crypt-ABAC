@@ -11,4 +11,4 @@ pandas
 cryptography
 flask
 gunicorn
-py-abac
+py_abac==0.4.1
